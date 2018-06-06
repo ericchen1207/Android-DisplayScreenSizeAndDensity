@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisplayScreenSizeAndDensity</string>
+    <string name="display_screen_info">The screen width is %dpx, height is %dpx and density is %f</string>
+</resources>
